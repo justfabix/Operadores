@@ -9,4 +9,4 @@ echo "<br> <h1>El resultado de sumar los dos números es: ". ($uno+$dos);
 
 ?>
 <br>
-<a target="_blank" class="fcc-btn" href="./Main.php">Volver Atras</a>
+<a target="_blank" class="fcc-btn" href="./index.php">Volver Atras</a>

@@ -11,4 +11,4 @@ echo "<h1> Horas: ". $h1;
 
 ?>
 <br>
-<a target="_blank" class="fcc-btn" href="./Main.php">Volver Atras</a>
+<a target="_blank" class="fcc-btn" href="./index.php">Volver Atras</a>

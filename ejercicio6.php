@@ -11,4 +11,4 @@ if ($R<0){echo "<h1>La ecuacion no tiene solucion porque R=$R";
 if($R==0){ echo "<h1>El resultado: x=$x0";}
 if($R>0){echo "<h1>El resultado: x1=$mayor0_2 y x2=$mayor0_1 ";} ?>
 <br>
-<a target="_blank" class="fcc-btn" href="./Main.php">Volver Atras</a>
+<a target="_blank" class="fcc-btn" href="./index.php">Volver Atras</a>

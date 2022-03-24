@@ -7,4 +7,4 @@ echo "<h1> EL RESTO DE LA DIVISION ES: ". ($uno%$dos);
 
 ?>
 <br>
-<a target="_blank" class="fcc-btn" href="./Main.php">Volver Atras</a>
+<a target="_blank" class="fcc-btn" href="./index.php">Volver Atras</a>
